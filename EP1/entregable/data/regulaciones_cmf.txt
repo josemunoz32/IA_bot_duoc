@@ -1,0 +1,105 @@
+NORMATIVA Y REGULACIONES CMF — Extracto Relevante para FinanChile Asesorías S.A.
+Fuente: Comisión para el Mercado Financiero de Chile (www.cmfchile.cl)
+Compilado: Enero 2025 — Solo referencia interna, consultar fuente oficial para versión vigente.
+===================================================================================
+
+SECCIÓN 1: LEY N°21.521 — MODERNIZACIÓN DE LEGISLACIÓN FINANCIERA (2023)
+==========================================================================
+La Ley 21.521 "tecnofinancieras" establece el marco regulatorio para los proveedores de servicios
+financieros basados en tecnología en Chile.
+
+1.1 Categorías de Servicios Regulados:
+    - Plataformas de financiamiento colectivo (crowdfunding).
+    - Servicios de intermediación de instrumentos financieros.
+    - Sistemas alternativos de transacción.
+    - Servicios de custodia de instrumentos financieros.
+    - Servicios de enrutamiento de órdenes.
+    - Sistemas de pago y procesamiento de transacciones.
+    - Plataformas de asesoría previsional.
+    - Servicios de asesoría crediticia.
+
+1.2 Requisitos de inscripción en el Registro CMF:
+    - Capital mínimo: Variable según tipo de servicio (mínimo 4.000 UF para asesorías).
+    - Políticas y procedimientos aprobados por el directorio.
+    - Sistema de gestión de riesgos documentado.
+    - Política de continuidad operacional.
+    - Declaración de conflictos de interés.
+
+SECCIÓN 2: NORMA SOBRE INFORMACIÓN MÍNIMA A CLIENTES
+=======================================================
+Según la NCG (Norma de Carácter General) N°484 de la CMF:
+
+2.1 Las empresas financieras reguladas deben proporcionar a sus clientes, antes de contratar:
+    a) Descripción clara del producto o servicio.
+    b) Tasa de interés efectiva anual (TAE).
+    c) Carga Anual Equivalente (CAE) para créditos.
+    d) Comisiones y cargos aplicables.
+    e) Condiciones para modificar o terminar el contrato.
+    f) Mecanismos de reclamo y recursos de defensa del cliente.
+
+2.2 Lenguaje Sencillo: Toda comunicación con clientes debe ser en lenguaje comprensible,
+    evitando tecnicismos innecesarios. Las condiciones generales deben estar en fuente
+    mínima legible (cuerpo 8 en documentos físicos).
+
+2.3 Publicidad: No se permite publicidad que induzca a error sobre las características
+    de los productos. Las advertencias de riesgo son obligatorias en toda publicidad
+    de instrumentos de inversión.
+
+SECCIÓN 3: TASAS MÁXIMAS CONVENCIONALES (TMC) — ENERO 2025
+============================================================
+Las TMC son los límites máximos de tasa de interés que pueden cobrar las instituciones
+financieras, según la Ley N°18.010.
+
+Tasas Máximas Convencionales vigentes (Enero 2025):
+- Créditos de consumo hasta 200 UF: 51,0% anual
+- Créditos de consumo 200-5.000 UF: 35,5% anual
+- Créditos de consumo > 5.000 UF: 28,7% anual
+- Créditos hipotecarios: 15,2% anual
+- Operaciones de comercio exterior: 14,8% anual
+
+Nota: Las instituciones financieras no pueden superar estas tasas bajo ninguna circunstancia.
+El cobro sobre la TMC es delito tipificado en el artículo 472 del Código Penal (usura).
+
+SECCIÓN 4: INDICADORES ECONÓMICOS DE REFERENCIA (ENERO 2025)
+=============================================================
+Fuente: Banco Central de Chile
+
+- Valor UF (17 Enero 2025): $38.453,21 CLP
+- Valor UTM (Enero 2025): $67.294 CLP
+- Tasa de Política Monetaria (TPM): 5,0% anual
+- IPC últimos 12 meses (Diciembre 2024): 4,5% anual
+- Tasa de interés de captación 30-89 días (promedio mercado): 4,8% anual
+- Tasa de interés de captación 90-365 días (promedio mercado): 5,1% anual
+
+SECCIÓN 5: DERECHOS DEL CONSUMIDOR FINANCIERO
+==============================================
+Según la Ley N°19.496 del Consumidor y normativas CMF:
+
+5.1 Derecho a la información clara y oportuna sobre todos los productos y servicios.
+5.2 Derecho al pago anticipado de créditos sin penalización abusiva.
+    - Para créditos de consumo: Se puede pagar anticipadamente pagando el saldo
+      insoluto más los intereses devengados hasta la fecha de pago.
+    - Para créditos hipotecarios: Se puede prepagar con 30 días de aviso previo.
+5.3 Derecho a recibir el contrato completo antes de firmar.
+5.4 Derecho a desistimiento: En ventas a distancia, el cliente tiene 10 días hábiles
+    para desistir sin expresión de causa (Ley del Consumidor, artículo 3 bis).
+5.5 Derecho a que sus datos no sean usados para fines distintos a los declarados.
+
+SECCIÓN 6: REQUISITOS MÍNIMOS DE CAPITAL Y SOLVENCIA
+======================================================
+Para empresas de asesoría financiera inscritas en la CMF:
+
+6.1 Capital mínimo pagado: 4.000 UF (aproximadamente $153.812.840 CLP con UF Enero 2025).
+6.2 Ratio de solvencia: Los activos ponderados por riesgo no deben exceder 20 veces
+    el patrimonio efectivo.
+6.3 Provisiones: Se deben constituir provisiones según la cartera de riesgo:
+    - Cartera Normal: 1% del saldo
+    - Cartera Subestándar: 20% del saldo
+    - Cartera en Incumplimiento: 90% del saldo
+
+SECCIÓN 7: OBLIGACIONES DE REPORTE A LA CMF
+============================================
+7.1 Reporte mensual de operaciones: Antes del día 10 de cada mes.
+7.2 Reporte anual de estados financieros: Dentro de los 60 días del cierre del ejercicio.
+7.3 Reporte inmediato de incidentes de ciberseguridad relevantes: Dentro de las 24 horas.
+7.4 Reporte de operaciones sospechosas a la UAF: Dentro de las 24 horas de detectada.

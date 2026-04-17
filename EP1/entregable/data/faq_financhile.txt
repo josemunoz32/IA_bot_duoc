@@ -1,0 +1,54 @@
+PREGUNTAS FRECUENTES (FAQ) — FinanChile Asesorías S.A.
+Base de Conocimiento para AsesorBot v2.0 | Actualizado: Enero 2025
+================================================================
+
+CATEGORÍA: CUENTA DE AHORRO
+============================
+
+Q: ¿Cómo abro una cuenta de ahorro en FinanChile?
+A: Puedes abrir tu cuenta de ahorro en 3 pasos: (1) Descarga la app FinanChile o ingresa a www.financhile.cl, (2) Completa el formulario con tu RUT y datos personales, (3) Valida tu identidad con una selfie y foto de tu cédula de identidad vigente. El proceso toma menos de 10 minutos y la cuenta queda activa en máximo 2 horas hábiles. Necesitarás: RUT, cédula de identidad vigente y comprobante de domicilio.
+
+Q: ¿Cuánto me rinde la Cuenta de Ahorro Máx?
+A: La Cuenta de Ahorro Máx ofrece una tasa de 4,5% anual efectiva (TAE) sobre el saldo mantenido. Por ejemplo, si mantienes $1.000.000 CLP durante un año, ganarás aproximadamente $45.000 CLP en intereses. No hay comisión de mantención si tu saldo promedio mensual supera $200.000 CLP.
+
+Q: ¿Puedo retirar dinero cuando quiera de la cuenta de ahorro?
+A: Sí, los retiros son ilimitados. El dinero se acredita en tu cuenta bancaria registrada dentro de las 24 horas hábiles siguientes a la solicitud de retiro.
+
+CATEGORÍA: FONDOS MUTUOS
+=========================
+
+Q: ¿Qué diferencia hay entre el Fondo Conservador y el Fondo Crecimiento?
+A: El Fondo Conservador invierte principalmente en renta fija (bonos, depósitos) con rentabilidad histórica de 6,8% anual y menor volatilidad. El Fondo Crecimiento invierte 60% en acciones con mayor potencial de retorno (12,4% histórico) pero también mayor riesgo. Si tu horizonte de inversión es menor a 1 año, el Conservador es más adecuado. Si es mayor a 3 años y toleras variaciones en tu inversión, el Crecimiento puede ser más apropiado.
+
+Q: ¿En cuánto tiempo puedo rescatar mi dinero del fondo mutuo?
+A: El Fondo Conservador tiene rescate en T+2 hábiles (48 horas hábiles). El Fondo Crecimiento en T+3 hábiles (72 horas hábiles). Recuerda que si rescatas el Conservador antes de 30 días o el Crecimiento antes de 90 días, se aplica una comisión de rescate anticipado.
+
+CATEGORÍA: CRÉDITOS
+====================
+
+Q: ¿Cuáles son los requisitos para un crédito de consumo?
+A: Para solicitar un crédito de consumo necesitas: ser mayor de 21 años, tener renta líquida mínima de $400.000 CLP, antigüedad laboral mínima de 6 meses, no tener morosidades en el sistema financiero, y presentar: cédula vigente, 3 últimas liquidaciones de sueldo (o última declaración de renta si eres independiente) y extracto bancario de los últimos 6 meses.
+
+Q: ¿Cuánto demora la aprobación de un crédito?
+A: Una vez entregados todos los documentos completos, la respuesta es en 24 horas hábiles para créditos de consumo. Para créditos hipotecarios el proceso toma entre 15 y 30 días hábiles, ya que incluye tasación de la propiedad y estudio de títulos.
+
+Q: ¿Puedo pagar mi crédito antes de tiempo?
+A: Sí, tienes derecho al prepago anticipado. Pagas el saldo insoluto más los intereses devengados hasta la fecha de pago. Para créditos hipotecarios se requiere aviso de 30 días. No hay penalización abusiva, ya que la Ley del Consumidor protege este derecho.
+
+CATEGORÍA: SEGURIDAD Y FRAUDE
+==============================
+
+Q: Recibí un correo/mensaje pidiendo mis claves de FinanChile, ¿qué hago?
+A: FinanChile NUNCA solicitará tus claves o datos de tarjeta por correo, WhatsApp, SMS o llamada telefónica. Si recibes un mensaje así, es un intento de phishing. Reporta de inmediato a seguridad@financhile.cl y no entregues ningún dato. Si crees que tus datos pueden estar comprometidos, cambia tu contraseña inmediatamente desde la app y llama al 600-FINANS.
+
+Q: ¿Qué hago si perdí mi teléfono y no puedo acceder a mi cuenta?
+A: Llama inmediatamente al 600-FINANS (disponible Lunes a Viernes 8:00-20:00, Sábados 9:00-13:00) para bloquear el acceso desde el dispositivo perdido. También puedes acudir a cualquier sucursal con tu cédula de identidad. Reactivar el acceso en un nuevo dispositivo requiere validación biométrica o verificación presencial.
+
+CATEGORÍA: RECLAMOS
+====================
+
+Q: ¿Cómo presento un reclamo?
+A: Puedes presentar tu reclamo por: (1) App FinanChile - Sección "Ayuda > Enviar Reclamo", (2) Correo a reclamos@financhile.cl, (3) Teléfono 600-FINANS opción 3, (4) Presencialmente en cualquier sucursal en el libro de reclamos, (5) Web www.financhile.cl/reclamos. Tienes derecho a respuesta en máximo 10 días hábiles.
+
+Q: FinanChile no resolvió mi reclamo, ¿qué puedo hacer?
+A: Si no estás satisfecho con nuestra respuesta, puedes recurrir a: SERNAC (www.sernac.cl o 800-700-100) para reclamos como consumidor, o a la CMF (www.cmfchile.cl) para reclamos sobre servicios financieros regulados. Ambas instituciones ofrecen mediación gratuita.

@@ -1,0 +1,141 @@
+MANUAL DE PRODUCTOS FINANCIEROS — FinanChile Asesorías S.A.
+Versión 3.2 | Actualizado: Enero 2025 | Uso Interno y Clientes
+================================================================
+
+ADVERTENCIA LEGAL: Las inversiones en instrumentos financieros conllevan riesgo de pérdida de capital.
+Los rendimientos pasados no garantizan rendimientos futuros. FinanChile Asesorías S.A. está regulada
+por la Comisión para el Mercado Financiero (CMF) bajo registro N°1247.
+
+================================================================
+SECCIÓN 1: PRODUCTOS DE AHORRO E INVERSIÓN
+================================================================
+
+1.1 CUENTA DE AHORRO MÁX
+- Descripción: Cuenta de ahorro con liquidez inmediata para personas naturales y jurídicas.
+- Tasa de interés: 4,5% anual efectiva (TAE) sobre el saldo mantenido.
+- Saldo mínimo para apertura: $50.000 CLP
+- Sin comisiones de mantención si el saldo promedio mensual supera $200.000 CLP.
+- Comisión de mantención si saldo < $200.000: $1.500 CLP mensuales.
+- Retiros: Ilimitados, acreditación en 24 horas hábiles.
+- Requisitos de apertura: RUT, cédula de identidad vigente, comprobante de domicilio.
+- Disponible para menores de edad con firma del tutor legal.
+- Seguro de depósito: Cubierto por el Fondo de Garantía de Depósitos hasta 120 UF.
+
+1.2 FONDO MUTUO FINANCHILE CONSERVADOR
+- Descripción: Fondo mutuo de renta fija, orientado a inversionistas con perfil conservador.
+- Patrimonio mínimo de inversión: $100.000 CLP
+- Rentabilidad histórica (últimos 12 meses): 6,8% anual (no garantizada).
+- Composición: 80% instrumentos de renta fija (bonos, depósitos a plazo), 20% liquidez.
+- Plazo de rescate: T+2 hábiles (48 horas hábiles desde la solicitud de rescate).
+- Comisión de administración: 1,2% anual sobre el patrimonio.
+- Comisión de ingreso: 0% (sin costo de entrada).
+- Comisión de rescate: 0% si se mantiene más de 30 días; 0,5% si se rescata antes.
+- Perfil de riesgo: Conservador. Clasificación CMF: Riesgo Bajo.
+- Declaración de riesgo: Este fondo invierte en instrumentos de renta fija. Existe riesgo
+  de fluctuación en el valor de las cuotas ante cambios en tasas de interés.
+
+1.3 FONDO MUTUO FINANCHILE CRECIMIENTO
+- Descripción: Fondo mutuo mixto para inversionistas con horizonte de mediano-largo plazo.
+- Patrimonio mínimo de inversión: $500.000 CLP
+- Rentabilidad histórica (últimos 12 meses): 12,4% anual (no garantizada).
+- Composición: 60% renta variable (acciones nacionales e internacionales), 40% renta fija.
+- Plazo de rescate: T+3 hábiles.
+- Comisión de administración: 1,8% anual.
+- Comisión de ingreso: 0,3%.
+- Comisión de rescate: 0% si se mantiene más de 90 días; 1% si rescata antes.
+- Perfil de riesgo: Moderado-Agresivo. Clasificación CMF: Riesgo Medio-Alto.
+
+1.4 DEPÓSITO A PLAZO FIJO
+- Descripción: Instrumento de inversión con plazo y tasa definidos al momento de la contratación.
+- Montos desde $500.000 CLP hasta $200.000.000 CLP.
+- Plazos disponibles: 30, 60, 90, 180 y 360 días.
+- Tasas vigentes (Enero 2025):
+  * 30 días: 5,2% anual
+  * 60 días: 5,5% anual
+  * 90 días: 5,8% anual
+  * 180 días: 6,1% anual
+  * 360 días: 6,4% anual
+- Liquidación anticipada: Penalización del 30% de los intereses devengados.
+- Sin comisiones de administración.
+- Renovación automática opcional al vencimiento.
+- Exento de impuesto de timbres y estampillas para personas naturales.
+
+================================================================
+SECCIÓN 2: PRODUCTOS DE CRÉDITO
+================================================================
+
+2.1 CRÉDITO DE CONSUMO PERSONAL
+- Descripción: Financiamiento para necesidades personales (viajes, electrónica, mejoras del hogar, etc.).
+- Monto: Desde $200.000 hasta $30.000.000 CLP.
+- Plazo: 6 a 72 meses.
+- Tasa de interés corriente: 1,8% mensual (equivalente a 23,9% anual).
+- CAE (Carga Anual Equivalente): 26,4% (incluye seguros y comisiones).
+- Comisión de originación: 1% del monto del crédito.
+- Seguro de desgravamen: Obligatorio, costo 0,08% mensual sobre el saldo insoluto.
+- Seguro de cesantía: Opcional, costo 0,12% mensual.
+- Requisitos: Renta líquida mínima $400.000 CLP, antigüedad laboral mínima 6 meses,
+  sin morosidades en el sistema financiero, mayores de 21 años.
+- Tiempo de respuesta: 24 horas hábiles desde presentación de documentos completos.
+- Documentos requeridos: Cédula vigente, 3 últimas liquidaciones de sueldo o
+  última declaración de renta (trabajadores independientes), extracto bancario 6 meses.
+
+2.2 CRÉDITO HIPOTECARIO
+- Descripción: Financiamiento para adquisición de viviendas nuevas o usadas en Chile.
+- Monto: Hasta el 80% del valor de tasación de la propiedad (máximo $500.000 UF).
+- Plazo: 8 a 30 años.
+- Tasa de interés: Variable o fija.
+  * Tasa fija 20 años: 4,25% anual (en UF).
+  * Tasa fija 30 años: 4,45% anual (en UF).
+  * Tasa variable: UF + 3,1% (ajuste semestral, sujeto a variación).
+- CAE: Desde 5,1% anual (incluye seguros obligatorios).
+- Seguros obligatorios: Desgravamen e incendio/sismo (incluidos en el dividendo).
+- Pie mínimo: 20% del valor de la propiedad.
+- Subsidio habitacional: Se puede complementar con subsidios del SERVIU.
+- Tiempo de aprobación: 15 a 30 días hábiles.
+- Requisitos adicionales: Tasación de la propiedad (costo $150.000-$300.000 CLP),
+  estudio de títulos, escrituración ante notario.
+
+2.3 LÍNEA DE CRÉDITO PYME
+- Descripción: Línea de crédito rotatoria para capital de trabajo de PYMES.
+- Monto: Desde $2.000.000 hasta $500.000.000 CLP.
+- Plazo de la línea: 12 meses renovable anualmente.
+- Tasa de utilización: 1,5% mensual sobre el monto utilizado.
+- Comisión de disponibilidad: 0,25% anual sobre el cupo no utilizado.
+- Requisitos: Empresa con al menos 2 años de antigüedad, ventas anuales >$100M CLP,
+  sin morosidades tributarias, estados financieros últimos 2 años.
+- Garantías: Pueden incluir pagaré, hipoteca o aval personal del representante legal.
+
+================================================================
+SECCIÓN 3: PRODUCTOS DE SEGUROS
+================================================================
+
+3.1 SEGURO DE VIDA FINANCHILE
+- Descripción: Seguro de vida con cobertura por fallecimiento y/o invalidez total y permanente.
+- Capital asegurado: Desde $10.000.000 hasta $300.000.000 CLP.
+- Prima mensual: Desde $8.500 CLP (depende de edad, género y capital asegurado).
+- Beneficiarios: Hasta 5 beneficiarios designados por el asegurado.
+- Exclusiones principales: Suicidio en primeros 2 años, muerte por actos de guerra.
+- Período de gracia: 30 días para el pago de primas.
+- Portabilidad: La póliza es portable, se mantiene aunque el asegurado cambie de trabajo.
+
+================================================================
+SECCIÓN 4: PLAZOS Y PROCEDIMIENTOS GENERALES
+================================================================
+
+4.1 PROCEDIMIENTO DE APERTURA DE CUENTAS
+Paso 1: El cliente completa el formulario de apertura en la app FinanChile o en sucursal.
+Paso 2: Verificación de identidad digital (selfie + foto cédula) o presencial.
+Paso 3: Proceso de KYC/AML automático (verificación en listas OFAC, ONU, etc.).
+Paso 4: Aprobación o rechazo en un plazo máximo de 2 horas hábiles para cuentas de ahorro.
+Paso 5: Activación y envío de credenciales por correo electrónico y SMS.
+
+4.2 HORARIO DE ATENCIÓN
+- Sucursales (Providencia, Las Condes, Ñuñoa): Lunes a Viernes 9:00-18:00 hrs.
+- Atención telefónica: Lunes a Viernes 8:00-20:00, Sábados 9:00-13:00 hrs.
+- App y web: Disponibles 24/7.
+- Asistente IA AsesorBot: Disponible 24/7.
+
+4.3 PROCESO DE RECLAMOS
+- Canal: App, web, sucursales, correo reclamos@financhile.cl o teléfono 600-FINANS.
+- Plazo de respuesta: 10 días hábiles (según Ley del Consumidor).
+- Escalada a CMF: Si el cliente no queda conforme, puede escalar a www.cmfchile.cl.
