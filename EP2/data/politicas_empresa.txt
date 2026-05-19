@@ -1,0 +1,120 @@
+POLÍTICAS Y PROCEDIMIENTOS INTERNOS — FinanChile Asesorías S.A.
+Versión 2.1 | Aprobado por Directorio: Octubre 2024
+================================================================
+
+POLÍTICA 1: POLÍTICA DE PRIVACIDAD Y PROTECCIÓN DE DATOS PERSONALES
+=====================================================================
+En cumplimiento con la Ley N°19.628 sobre Protección de la Vida Privada y la futura
+Ley N°21.719 (nueva Ley de Datos Personales, vigente desde 2025), FinanChile se compromete a:
+
+1.1 Recopilación de datos: Solo recopilaremos los datos estrictamente necesarios para
+    prestar los servicios contratados.
+
+1.2 Uso de datos: Los datos personales serán utilizados únicamente para:
+    - Gestión del producto o servicio contratado.
+    - Comunicaciones relacionadas con el contrato.
+    - Cumplimiento de obligaciones legales y regulatorias.
+    - Prevención de fraude y lavado de activos.
+    
+1.3 No comercializamos datos personales con terceros sin consentimiento explícito.
+
+1.4 Derechos del titular: El cliente puede ejercer sus derechos de acceso, rectificación,
+    cancelación y oposición (ARCO) enviando solicitud a privacidad@financhile.cl.
+
+1.5 Plazo de retención: Datos de contratos vigentes: durante la relación comercial.
+    Datos de contratos cerrados: 5 años según Ley de Blanqueo de Capitales.
+
+POLÍTICA 2: POLÍTICA ANTI-LAVADO DE ACTIVOS (AML) Y CONOCIMIENTO DEL CLIENTE (KYC)
+=====================================================================================
+FinanChile cumple con la Ley N°19.913 (UAF - Unidad de Análisis Financiero).
+
+2.1 Todo cliente nuevo debe pasar por proceso KYC obligatorio antes de operar.
+    Documentos requeridos: cédula vigente, comprobante de domicilio (< 3 meses),
+    declaración de origen de fondos para montos > 500 UF.
+
+2.2 Transacciones en efectivo > 450 UF deben ser reportadas automáticamente a la UAF.
+
+2.3 Clientes con perfil de alto riesgo requieren Enhanced Due Diligence (EDD):
+    - Personas expuestas políticamente (PEP).
+    - Clientes de países con alta calificación de riesgo GAFI.
+    - Clientes con transacciones inusuales detectadas por el motor de AML.
+
+2.4 El equipo de Compliance revisa alertas AML en un plazo máximo de 48 horas hábiles.
+
+POLÍTICA 3: POLÍTICA DE GESTIÓN DE RECLAMOS Y SOLUCIÓN DE CONTROVERSIAS
+=========================================================================
+3.1 Canales de reclamo:
+    - App FinanChile: Sección "Ayuda > Enviar Reclamo".
+    - Sucursales: Libro de Reclamos físico disponible.
+    - Correo electrónico: reclamos@financhile.cl
+    - Teléfono: 600-FINANS (600-346-267), opción 3.
+    - Web: www.financhile.cl/reclamos
+
+3.2 Plazos de respuesta:
+    - Acuse de recibo: 24 horas hábiles.
+    - Respuesta definitiva: 10 días hábiles (Ley del Consumidor N°19.496).
+    - Casos complejos pueden extenderse a 20 días hábiles, notificando al cliente.
+
+3.3 Categorías de reclamos:
+    Nivel 1 (Resuelve el Ejecutivo de Atención): Información incorrecta, problemas de app.
+    Nivel 2 (Resuelve el Supervisor de Área): Cobros incorrectos, problemas de productos.
+    Nivel 3 (Resuelve el Comité de Reclamos): Disputas legales, montos > $1.000.000 CLP.
+
+3.4 Instancias externas de reclamo:
+    - SERNAC: www.sernac.cl / 800-700-100
+    - CMF: www.cmfchile.cl / portal de reclamos.
+    - Comisión Defensor del Cliente: Para reclamos no resueltos internamente.
+
+POLÍTICA 4: POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN
+=====================================================
+4.1 Autenticación: Todos los accesos a la app requieren autenticación de dos factores (2FA).
+4.2 Encriptación: Comunicaciones encriptadas con TLS 1.3. Datos en reposo con AES-256.
+4.3 Sesiones: Cierre automático tras 10 minutos de inactividad en la app.
+4.4 Contraseñas: Mínimo 8 caracteres, al menos 1 mayúscula, 1 número y 1 carácter especial.
+4.5 Incidentes de seguridad: Reportar a seguridad@financhile.cl o llamar a Soporte 24/7.
+
+POLÍTICA 5: POLÍTICA DE EXCLUSIÓN Y BLOQUEO DE CUENTAS
+========================================================
+5.1 Causas de bloqueo temporal de cuenta:
+    - 5 intentos fallidos consecutivos de inicio de sesión.
+    - Actividad inusual detectada por el sistema de prevención de fraude.
+    - Solicitud expresa del titular.
+
+5.2 Causas de cierre definitivo de cuenta:
+    - Incumplimiento grave de los Términos y Condiciones.
+    - Constatación de fraude o actividad ilícita.
+    - Orden judicial o regulatoria.
+
+5.3 Procedimiento de desbloqueo:
+    - Bloqueo temporal: El cliente puede desbloquear por la app (validación biométrica)
+      o llamando al 600-FINANS con las preguntas de seguridad correctas.
+    - Proceso máximo: 30 minutos en horario hábil.
+
+POLÍTICA 6: PROCEDIMIENTO DE PORTABILIDAD FINANCIERA
+======================================================
+En cumplimiento con la Ley de Portabilidad Financiera N°21.236:
+
+6.1 El cliente tiene derecho a solicitar portabilidad gratuita de sus productos a otra institución.
+6.2 Proceso: El cliente hace la solicitud en la nueva institución, quien gestiona el traspaso.
+6.3 Plazo: FinanChile debe transferir la información en máximo 10 días hábiles.
+6.4 Gratuidad: Ningún cobro puede realizarse por el proceso de portabilidad.
+6.5 Prepago de créditos: Parte del proceso de portabilidad, se liquidan con el saldo total
+    del crédito más los intereses devengados hasta la fecha de liquidación.
+
+POLÍTICA 7: HORARIOS Y CANALES DE ATENCIÓN
+============================================
+7.1 Sucursal Providencia (Av. Providencia 1208, Piso 3):
+    Lunes a Viernes: 9:00 - 18:00 hrs.
+    
+7.2 Sucursal Las Condes (Av. Apoquindo 4718, Oficina 201):
+    Lunes a Viernes: 9:00 - 18:00 hrs.
+
+7.3 Sucursal Ñuñoa (Irarrázaval 3425, Local 5):
+    Lunes a Viernes: 9:00 - 18:00 hrs.
+
+7.4 Atención telefónica (600-FINANS):
+    Lunes a Viernes: 8:00 - 20:00 hrs.
+    Sábados: 9:00 - 13:00 hrs.
+
+7.5 Plataforma digital (app y web): Disponible 24/7.
+7.6 AsesorBot (Asistente IA): Disponible 24/7.

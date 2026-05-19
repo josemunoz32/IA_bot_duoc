@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "Hola, me llamo José Muñoz y mi RUT es 18.456.789-0. Me gustaría cotizar un crédito de consumo por $5.000.000 a pagar en 24 cuotas mensuales."
+  },
+  {
+    "role": "assistant",
+    "content": "¡Gracias por tu consulta, José! He generado la cotización formal para tu crédito de consumo. Aquí tienes los detalles principales:\n\n- **Producto**: Crédito de Consumo FinanChile  \n- **Monto Solicitado**: $5.000.000  \n- **Plazo**: 24 meses  \n- **Tasa de Interés Mensual**: 1.8%  \n- **Tasa de Interés Anual Nominal**: 21.6%  \n- **CAE Anual Estimado**: 26.4%  \n- **Cuota Mensual**: $258.404  \n- **Costo Total del Crédito**: $6.201.700  \n- **Intereses Totales**: $1.201.700  \n\n**ADVERTENCIA CMF**: Las inversiones conllevan riesgo de pérdida de capital. Los rendimientos pasados no garantizan rendimientos futuros.\n\n**Nota**: El otorgamiento del crédito está sujeto a evaluación crediticia comercial por FinanChile Asesorías S.A.\n\nTu cotización ha sido registrada exitosamente en nuestro sistema. Si necesitas el archivo con el detalle completo, puedo enviártelo o indicarte cómo acceder a él. ¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "role": "user",
+    "content": "Por favor, calcula la cuota exacta del crédito, genera la cotización formal y regístrala en el sistema corporativo."
+  },
+  {
+    "role": "assistant",
+    "content": "José, he generado y registrado tu cotización formal en nuestro sistema corporativo. Aquí tienes un resumen de los detalles:\n\n- **Producto**: Crédito de Consumo FinanChile  \n- **Monto Solicitado**: $5.000.000  \n- **Plazo**: 24 meses  \n- **Tasa de Interés Mensual**: 1.8%  \n- **Tasa de Interés Anual Nominal**: 21.6%  \n- **CAE Anual Estimado**: 26.4%  \n- **Cuota Mensual**: $258.404  \n- **Costo Total del Crédito**: $6.201.700  \n- **Intereses Totales**: $1.201.700  \n\n**ADVERTENCIA CMF**: Las inversiones conllevan riesgo de pérdida de capital. Los rendimientos pasados no garantizan rendimientos futuros.\n\nTu cotización ha sido guardada exitosamente en nuestro sistema. Si necesitas el archivo con el detalle completo, puedo enviártelo o indicarte cómo acceder a él. ¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "role": "user",
+    "content": "¿La tasa mensual del crédito de consumo de 1.8% que ofrecen cumple con los límites de la Tasa Máxima Convencional de la CMF de Chile?"
+  },
+  {
+    "role": "assistant",
+    "content": "La Tasa Máxima Convencional (TMC) vigente para créditos de consumo en Chile, según la Comisión para el Mercado Financiero (CMF), es la siguiente:\n\n- **Créditos de consumo hasta 200 UF**: 51,0% anual  \n- **Créditos de consumo entre 200 y 5.000 UF**: 35,5% anual  \n- **Créditos de consumo mayores a 5.000 UF**: 28,7% anual  \n\n[Fuente: Normativa CMF — Comisión para el Mercado Financiero]\n\nLa tasa mensual de 1.8% que ofrece FinanChile para créditos de consumo equivale aproximadamente a un 23,9% anual, lo que está por debajo de los límites establecidos por la TMC para todos los tramos de créditos de consumo. Por lo tanto, esta tasa cumple con la normativa vigente de la CMF.\n\n¿Hay algo más en lo que pueda ayudarte?"
+  },
+  {
+    "role": "user",
+    "content": "¡Su sistema es una porquería! Llevo horas tratando de transferir $1.000.000 a la cuenta de mi socio y no me deja hacer nada. Quiero hablar con un supervisor de inmediato, ¡exijo que me atienda un humano ya mismo!"
+  },
+  {
+    "role": "assistant",
+    "content": "Lamento mucho los inconvenientes que has tenido, José. Entiendo perfectamente tu frustración y quiero que sepas que tu caso ya ha sido derivado con **prioridad alta** a un asesor humano especializado. El ID de tu caso es **ESC-20260519_191241**.\n\nUn asesor se pondrá en contacto contigo de inmediato para resolver esta situación. Agradezco tu paciencia y lamento las molestias ocasionadas. ¿Hay algo más en lo que pueda asistirte mientras tanto?"
+  }
+]

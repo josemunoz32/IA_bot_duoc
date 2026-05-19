@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Hola, me llamo José Muñoz y mi RUT es 18.456.789-0. Me gustaría cotizar un crédito de consumo por $5.000.000 a pagar en 24 cuotas mensuales."
+  },
+  {
+    "role": "assistant",
+    "content": "¡Gracias por la espera, José! Aquí tienes la cotización de tu crédito de consumo:\n\n**Cotización de Crédito de Consumo FinanChile**\n- **Monto Solicitado:** $5.000.000\n- **Plazo:** 24 meses\n- **Tasa de Interés Mensual:** 1.8%\n- **Tasa de Interés Anual Nominal:** 21.6%\n- **CAE Anual Estimado:** 26.4%\n- **Cuota Mensual Aproximada:** $258.404\n- **Costo Total del Crédito:** $6.201.700\n- **Intereses Totales:** $1.201.700\n\n**ADVERTENCIA CMF:** Las inversiones conllevan riesgo de pérdida de capital. Los rendimientos pasados no garantizan rendimientos futuros.\n\n**Nota:** El otorgamiento del crédito está sujeto a evaluación crediticia comercial por FinanChile Asesorías S.A.\n\nTu cotización ha sido registrada exitosamente en nuestro sistema. Si necesitas una copia, está disponible con el siguiente nombre de archivo: **cotizacion_josé_muñoz_18456789-0_20260519_185626.txt**.\n\n¿Hay algo más en lo que pueda ayudarte? 😊"
+  }
+]

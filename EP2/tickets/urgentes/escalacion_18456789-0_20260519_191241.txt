@@ -1,0 +1,18 @@
+=================================================================
+      🚨 ESCALACIÓN PRIORITARIA A ASESOR HUMANO — FINANCHILE S.A.
+      ID de Escalación: ESC-20260519_191241
+      Fecha y Hora de Derivación: 19/05/2026 19:12:41
+      Gravedad / Prioridad: ALTA
+=================================================================
+DATOS DEL CLIENTE:
+  - Nombre: José Muñoz
+  - RUT: 18.456.789-0
+
+MOTIVO DE LA ESCALACIÓN:
+  Solicitud fuera de alcance
+
+DETALLE DEL CASO Y CONVERSACIÓN:
+  El cliente está muy molesto porque no ha podido realizar una transferencia de $1.000.000 a la cuenta de su socio y exige hablar con un supervisor de inmediato.
+-----------------------------------------------------------------
+ACCION REQUERIDA: Contactar al cliente de forma prioritaria en un plazo máximo de 15 minutos.
+=================================================================

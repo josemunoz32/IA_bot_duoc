@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Hola, me llamo José Muñoz y mi RUT es 18.456.789-0. Me gustaría cotizar un crédito de consumo por $5.000.000 a pagar en 24 cuotas mensuales."
+  },
+  {
+    "role": "user",
+    "content": "Por favor, calcula la cuota exacta del crédito, genera la cotización formal y regístrala en el sistema corporativo."
+  },
+  {
+    "role": "user",
+    "content": "¿La tasa mensual del crédito de consumo de 1.8% que ofrecen cumple con los límites de la Tasa Máxima Convencional de la CMF de Chile?"
+  },
+  {
+    "role": "user",
+    "content": "¡Su sistema es una porquería! Llevo horas tratando de transferir $1.000.000 a la cuenta de mi socio y no me deja hacer nada. Quiero hablar con un supervisor de inmediato, ¡exijo que me atienda un humano ya mismo!"
+  }
+]
