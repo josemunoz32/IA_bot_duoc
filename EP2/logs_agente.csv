@@ -1,0 +1,17 @@
+timestamp,session_id,user_query,latency_segundos,precision_score,error_flag,tool_used
+2026-07-01 10:05:12,sesion_01,"Requisitos credito de consumo",2.1,0.95,0,ConsultarProductos
+2026-07-01 10:06:45,sesion_01,"Quiero simular 3 millones a 12 meses",3.5,0.98,0,SimuladorCredito
+2026-07-01 11:15:30,sesion_02,"Que dice la normativa CMF sobre la tasa maxima",4.2,0.92,0,ConsultarNormativaCMF
+2026-07-01 11:17:10,sesion_02,"Y si cobro el 5% mensual es legal?",2.8,0.94,0,ConsultarNormativaCMF
+2026-07-02 09:20:00,sesion_03,"Quiero invertir en criptomonedas con ustedes",1.5,0.99,0,Ninguna
+2026-07-02 09:25:12,sesion_04,"No me funciona la clave maldita sea",1.2,0.98,0,DerivacionHumano
+2026-07-02 14:10:45,sesion_05,"Simulame un hipotecario a 20 años",3.1,0.85,1,ConsultarProductos
+2026-07-03 10:00:10,sesion_06,"Cuales son los limites TMC actuales",4.5,0.88,0,ConsultarNormativaCMF
+2026-07-03 10:05:00,sesion_06,"Quiero pedir 50 millones para mi pyme",3.6,0.95,0,SimuladorCredito
+2026-07-03 12:30:15,sesion_07,"Necesito hablar con un ejecutivo, su bot no sirve",1.1,0.99,0,DerivacionHumano
+2026-07-04 09:15:20,sesion_08,"Cual es el CAE para 2 millones a 24 meses",3.2,0.96,0,SimuladorCredito
+2026-07-04 09:17:05,sesion_08,"Me pueden enviar el contrato?",2.4,0.91,0,ConsultarProductos
+2026-07-04 11:45:30,sesion_09,"Cuanto es la comision por prepago",3.9,0.93,0,ConsultarNormativaCMF
+2026-07-04 11:48:10,sesion_09,"Puedo prepagar hoy?",2.1,0.90,0,ConsultarNormativaCMF
+2026-07-04 15:20:45,sesion_10,"Simular 1 millon 12 cuotas",3.4,0.97,0,SimuladorCredito
+2026-07-04 15:22:15,sesion_10,"Hagan la solicitud por favor",2.5,0.89,1,SimuladorCredito

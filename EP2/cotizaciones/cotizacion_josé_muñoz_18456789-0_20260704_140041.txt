@@ -1,0 +1,26 @@
+=================================================================
+         COTIZACIÓN FORMAL DE SERVICIO — FINANCHILE ASESORÍAS S.A.
+         Fecha de Emisión: 04/07/2026 14:00:41
+=================================================================
+CLIENTE: José Muñoz
+RUT: 18.456.789-0
+-----------------------------------------------------------------
+
+Cotización Crédito de Consumo
+
+Cliente: José Muñoz
+RUT: 18.456.789-0
+
+Producto: Crédito de Consumo FinanChile
+Monto solicitado: $5.000.000
+Plazo: 24 meses
+Tasa de interés mensual: 1.8%
+Tasa de interés anual nominal: 21.6%
+CAE anual estimado: 26.4%
+Cuota mensual: $258.404
+Costo total del crédito: $6.201.700
+Intereses totales: $1.201.700
+
+ADVERTENCIA CMF: Las inversiones conllevan riesgo de pérdida de capital. Los rendimientos pasados no garantizan rendimientos futuros.
+
+Nota: El otorgamiento del crédito está sujeto a evaluación crediticia comercial por FinanChile Asesorías S.A.
